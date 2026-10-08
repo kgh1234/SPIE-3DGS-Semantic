@@ -1,0 +1,6 @@
+{
+  "input_root": "./data/scannet",
+  "output_root": "./outputs/scannet_uncertainty",
+  "path_3dgs_root": "./data/scannet-3DGS",
+  "meta_root": "./meta"
+}

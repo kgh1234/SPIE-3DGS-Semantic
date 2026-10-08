@@ -1,0 +1,21 @@
+/test/
+/dataset/
+/results_semantic_seg/
+*.pyc
+# Local experiment scripts
+prompt/
+
+# Datasets and generated outputs
+data/
+datasets/
+output/
+outputs/
+checkpoints/
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Point cloud data
+*.ply
