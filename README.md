@@ -276,21 +276,22 @@ Gahyeon Kim, Dong-hun Lee, Chae-yeong Song, Hojun Song, and Sang-hyo Park
 
 ---
 
-## Acknowledgments
-
-This research was supported by the Regional Innovation System & Education (RISE) Glocal 30 program through the Daegu RISE Center, funded by the Ministry of Education (MOE) and Daegu, Republic of Korea (2025-RISE-03-001).
-
----
 
 ## Citation
 
 If you find this work useful, please cite:
 
-```bibtex
-@inproceedings{kim2026performance,
-  title     = {Performance Analysis of 3D Semantic Segmentation using 3D Gaussian Splatting},
-  author    = {Kim, Gahyeon and Lee, Dong-hun and Song, Chae-yeong and Song, Hojun and Park, Sang-hyo},
-  doi       = {10.1117/12.3102151},
-  year      = {2026}
+@inproceedings{10.1117/12.3102151,
+  author = {Gahyeon Kim and Dong-hun Lee and Chae-yeong Song and Hojun Song and Sang-hyo Park},
+  title = {{Performance analysis of 3D semantic segmentation using 3D Gaussian splatting}},
+  volume = {14072},
+  booktitle = {International Workshop on Advanced Imaging Technology (IWAIT) 2026},
+  editor = {Masayuki Nakajima and Chuan-Yu Chang and Chien-Chou Lin and Shogo Tokai and Kwang-Deok Seo and Chia-Hung Yeh and Budianto Tandianus},
+  organization = {International Society for Optics and Photonics},
+  publisher = {SPIE},
+  pages = {1407206},
+  keywords = {3D Gaussian Splatting, 3D Semantic Segmentation, Scene Representation, Point Cloud},
+  year = {2026},
+  doi = {10.1117/12.3102151},
+  URL = {https://doi.org/10.1117/12.3102151}
 }
-```
