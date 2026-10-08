@@ -281,6 +281,7 @@ Gahyeon Kim, Dong-hun Lee, Chae-yeong Song, Hojun Song, and Sang-hyo Park
 
 If you find this work useful, please cite:
 
+```bibtex
 @inproceedings{10.1117/12.3102151,
   author = {Gahyeon Kim and Dong-hun Lee and Chae-yeong Song and Hojun Song and Sang-hyo Park},
   title = {{Performance analysis of 3D semantic segmentation using 3D Gaussian splatting}},
@@ -295,3 +296,4 @@ If you find this work useful, please cite:
   doi = {10.1117/12.3102151},
   URL = {https://doi.org/10.1117/12.3102151}
 }
+```
