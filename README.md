@@ -269,7 +269,7 @@ These observations suggest that additional structured semantic constraints may b
 
 **Performance Analysis of 3D Semantic Segmentation using 3D Gaussian Splatting**
 
-Gahyeon Kim, Dong-hun Lee, Chae-yeong Song, Hojun Song, and Sang-hyo Park
+Gahyeon Kim, Dong-hun Lee, Chae-yeong Song, Hojun Song, and Sang-hyo Park.
 
 - **SPIE Digital Library:** [Paper](https://nanolithography.spiedigitallibrary.org/conference-proceedings-of-spie/14072/1407206/Performance-analysis-of-3D-semantic-segmentation-using-3D-Gaussian-splatting/10.1117/12.3102151.short)
 - **DOI:** [10.1117/12.3102151](https://doi.org/10.1117/12.3102151)
